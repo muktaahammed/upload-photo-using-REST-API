@@ -17,3 +17,7 @@ Then >> Open your postman and test the output
 *Note* Don't forget to change the database configuration details if you do another one.
 
 #HappyCoding
+
+Sample Output
+
+![alt text](sample_output.png)
